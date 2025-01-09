@@ -34,15 +34,15 @@ order: 2
 
 1. Looking Back:
 
-    Reflect on last semester. What did you enjoy most about the class? What could be improved? Feel free to share any specific feedback about the lessons, projects, or activities we did.
+    Reflect on last semester. What did you enjoy most about the class? What could be improved? Feel free to share any specific feedback about the lessons, projects, or activities we did.i enjoyed.and i think nothing needs to be improved.
 
 2. Looking Ahead:
 
-    As we start this semester, what are some topics, activities, or projects you’d like to explore? Is there anything specific you’d like to learn or work on?
+    As we start this semester, what are some topics, activities, or projects you’d like to explore? Is there anything specific you’d like to learn or work on? i would like to explore doing a robot thing again
 
 3. Certifications:
 
-    Are you interested in pursuing any certifications related to this class (e.g., Python, Unity, or other tech certifications)? If yes, what support or resources would help you feel prepared to achieve this goal?
+    Are you interested in pursuing any certifications related to this class (e.g., Python, Unity, or other tech certifications)? If yes, what support or resources would help you feel prepared to achieve this goal? i want to do something thats kinda close but i want be a truck driver or a basketball player
 
 ----
 
