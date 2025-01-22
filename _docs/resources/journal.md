@@ -14,10 +14,10 @@ Recently, TikTok faced a potential nationwide ban in the United States due to na
 
 **Reflect on the following:**
 
-- How do you think government intervention impacts technology companies and their users?
-- In your opinion, how could companies like TikTok address security concerns while continuing to operate globally?
-- Imagine you’re a developer at TikTok working on a new feature to increase user privacy. Describe one feature or policy you would implement and why.
-- What lessons can you take from this situation to apply to your own projects in this course?
+- How do you think government intervention impacts technology companies and their users?if the government go on and proceed with banned of tiktok they will mess up bussiness.
+- In your opinion, how could companies like TikTok address security concerns while continuing to operate globally? probally have a U.S. as one of ther ceo to not get banned.
+- Imagine you’re a developer at TikTok working on a new feature to increase user privacy. Describe one feature or policy you would implement and why.just be friendly make friends but would add different things.
+- What lessons can you take from this situation to apply to your own projects in this course?if tiktok dont want to get banned get a U.S ceo to have as a protection of the banned.
 
 **Submission Instructions:**
 
@@ -31,7 +31,7 @@ Recently, TikTok faced a potential nationwide ban in the United States due to na
 
 **Read this article**: [Why The Once-Mighty Tech Career Is No Longer Safe](https://www.forbes.com/sites/jackkelly/2024/09/23/why-the-once-mighty-tech-career-is-no-longer-safe/)
 
-**Write a paragraph reflecting on the following**: The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles. What are your thoughts on this shift? Do you think AI tools will enhance opportunities for workers or limit them? How would you prepare yourself for a career in a rapidly changing job market like this one?
+**Write a paragraph reflecting on the following**: The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles. What are your thoughts on this shift? Do you think AI tools will enhance opportunities for workers or limit them? How would you prepare yourself for a career in a rapidly changing job market like this one? i think ai would limit worker but also they would need the jobs to provide for there family.
 
 ----
 
@@ -39,15 +39,15 @@ Recently, TikTok faced a potential nationwide ban in the United States due to na
 
 1. Looking Back:
 
-    Reflect on last semester. What did you enjoy most about the class? What could be improved? Feel free to share any specific feedback about the lessons, projects, or activities we did.
+    Reflect on last semester. What did you enjoy most about the class? What could be improved? Feel free to share any specific feedback about the lessons, projects, or activities we did.the one thing i enjoyed last semester was the zumi cars that you code with.
 
 2. Looking Ahead:
 
-    As we start this semester, what are some topics, activities, or projects you’d like to explore? Is there anything specific you’d like to learn or work on?
+    As we start this semester, what are some topics, activities, or projects you’d like to explore? Is there anything specific you’d like to learn or work on? i would like explore anything with but really the zumi cars
 
 3. Certifications:
 
-    Are you interested in pursuing any certifications related to this class (e.g., Python, Unity, or other tech certifications)? If yes, what support or resources would help you feel prepared to achieve this goal?
+    Are you interested in pursuing any certifications related to this class (e.g., Python, Unity, or other tech certifications)? If yes, what support or resources would help you feel prepared to achieve this goal? truck driving would need coding with the gps.
 
 ----
 
