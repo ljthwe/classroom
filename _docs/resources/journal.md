@@ -15,9 +15,10 @@ Recently, TikTok faced a potential nationwide ban in the United States due to na
 **Reflect on the following:**
 
 - How do you think government intervention impacts technology companies and their users?
-- In your opinion, how could companies like TikTok address security concerns while continuing to operate globally?
-- Imagine you’re a developer at TikTok working on a new feature to increase user privacy. Describe one feature or policy you would implement and why.
-- What lessons can you take from this situation to apply to your own projects in this course?
+- In your opinion, how could companies like TikTok address security concerns while continuing to operate globally?they could ove there company to the U.S or could do  50/50 split to the U.s.
+- Imagine you’re a developer at TikTok working on a new feature to increase user privacy. Describe one feature or policy you would implement and why. i would add a two 
+ Authentication.
+- What lessons can you take from this situation to apply to your own projects in this course? i would try t make a site or people to use for thier daily work.
 
 **Submission Instructions:**
 
@@ -31,7 +32,7 @@ Recently, TikTok faced a potential nationwide ban in the United States due to na
 
 **Read this article**: [Why The Once-Mighty Tech Career Is No Longer Safe](https://www.forbes.com/sites/jackkelly/2024/09/23/why-the-once-mighty-tech-career-is-no-longer-safe/)
 
-**Write a paragraph reflecting on the following**: The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles. What are your thoughts on this shift? Do you think AI tools will enhance opportunities for workers or limit them? How would you prepare yourself for a career in a rapidly changing job market like this one?
+**Write a paragraph reflecting on the following**: The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles. What are your thoughts on this shift? Do you think AI tools will enhance opportunities for workers or limit them? How would you prepare yourself for a career in a rapidly changing job market like this one? By replacing humans for ai would mess with people getting paid,paying there bills taxes and buying cloths for children.
 
 ----
 
@@ -43,11 +44,11 @@ Recently, TikTok faced a potential nationwide ban in the United States due to na
 
 2. Looking Ahead:
 
-    As we start this semester, what are some topics, activities, or projects you’d like to explore? Is there anything specific you’d like to learn or work on?
+    As we start this semester, what are some topics, activities, or projects you’d like to explore? Is there anything specific you’d like to learn or work on? i would like to work with the zumii codinng thing again.
 
-3. Certifications:
+3. Certifications:i would need to lay n college basketball to play in the NBA.
 
-    Are you interested in pursuing any certifications related to this class (e.g., Python, Unity, or other tech certifications)? If yes, what support or resources would help you feel prepared to achieve this goal?
+    Are you interested in pursuing any certifications related to this class (e.g., Python, Unity, or other tech certifications)? If yes, what support or resources would help you feel prepared to achieve this goal? i would like to be a truck driver that would need coding for gps tracking the trucks to.
 
 ----
 
